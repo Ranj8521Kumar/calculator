@@ -6,13 +6,13 @@
     background-color: rgb(92, 87, 87);
     margin-left: 41%;
     margin-right: 50%;
-    margin-top: 400px;
+    margin-top: 3%;
 }
 
 #display{
     margin: 40px;
     width: 87%;
-    height: 150px;
+    height: 15%;
     font-size: 100px;
     background-color: blue;
     border: 2px solid black;
